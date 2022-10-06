@@ -3,6 +3,10 @@
 My name is Jaap. I am a German Software Engineer living in Portugal.
 
 - 🌱 I love coding with Go, Kotlin, Typescript and Ruby
+- I do fullstack but I am better at the backend.
+- I like buildings things that people can use.
+- I love building computer games for fun
+- I have a family so I never have time to do these things in my fun time :(
 - 💬 Ask me about Software Quality and Architecture
 - ⚡ Learn more about me:
   - [I randomly blog](https://dev.to/jgroeneveld)
@@ -12,7 +16,9 @@ My name is Jaap. I am a German Software Engineer living in Portugal.
 
 Checkout my repos
 - [All](https://github.com/jgroeneveld?tab=repositories&q=&type=&sort=stargazers)
-- [Just Go Projects](https://github.com/jgroeneveld?tab=repositories&q=&type=&language=go&sort=stargazers)
+- [Golang](https://github.com/jgroeneveld?tab=repositories&q=&type=&language=go&sort=stargazers)
+- [Kotlin](https://github.com/jgroeneveld?tab=repositories&q=&type=&language=kotlin&sort=stargazers)
+- [Ruby](https://github.com/jgroeneveld?tab=repositories&q=&type=&language=ruby&sort=stargazers)
 
 
 <!--
