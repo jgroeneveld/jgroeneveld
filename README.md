@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🌱 I love coding with Go, Kotlin, Typescript and Ruby
+- 💬 Ask me about Software Quality and Architecture
+- ⚡ Learn more about me:
+  - [I randomly blog](https://dev.to/jgroeneveld)
+  - [I have a website](http://jgroeneveld.de/)
+  - [I am on LinkedIn](https://www.linkedin.com/in/jmgroeneveld/)
+  - I take photos and show them [on the web](http://lichtsache.com/) and [on instagram](https://www.instagram.com/lichtsache/)
+- 
+
 <!--
 **jgroeneveld/jgroeneveld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
